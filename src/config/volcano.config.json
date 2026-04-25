@@ -1,0 +1,126 @@
+{
+  "gameId": "volcano",
+  "nameHe": "הר הגעש",
+  "levels": [
+    {
+      "id": 1,
+      "phase": "intro",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "swipe-up",
+      "heatRequired": 30,
+      "pressureRequired": 0,
+      "timingRequired": false,
+      "distractors": 0,
+      "voiceHe": "החליקי את האצבע למעלה כדי לחמם את ההר!"
+    },
+    {
+      "id": 2,
+      "phase": "intro",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "swipe-up",
+      "heatRequired": 50,
+      "pressureRequired": 0,
+      "timingRequired": false,
+      "distractors": 0,
+      "voiceHe": "יופי! עוד קצת חום..."
+    },
+    {
+      "id": 3,
+      "phase": "intro",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "swipe-up",
+      "heatRequired": 70,
+      "pressureRequired": 0,
+      "timingRequired": false,
+      "distractors": 0,
+      "voiceHe": "ממש חם! ההר מתחיל להרגיש את זה!"
+    },
+    {
+      "id": 4,
+      "phase": "practice",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "swipe-heat-pressure",
+      "heatRequired": 60,
+      "pressureRequired": 40,
+      "timingRequired": false,
+      "distractors": 0,
+      "voiceHe": "עכשיו צריך גם חום וגם לחץ! לחצי על הכפתור!"
+    },
+    {
+      "id": 5,
+      "phase": "practice",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "swipe-heat-pressure",
+      "heatRequired": 70,
+      "pressureRequired": 60,
+      "timingRequired": false,
+      "distractors": 1,
+      "voiceHe": "שימי לב! יש כפתורים שלא עוזרים..."
+    },
+    {
+      "id": 6,
+      "phase": "practice",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "swipe-heat-pressure",
+      "heatRequired": 80,
+      "pressureRequired": 70,
+      "timingRequired": false,
+      "distractors": 2,
+      "voiceHe": "כבר כמעט! קצת עוד..."
+    },
+    {
+      "id": 7,
+      "phase": "practice",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "timing",
+      "heatRequired": 80,
+      "pressureRequired": 80,
+      "timingRequired": true,
+      "distractors": 1,
+      "voiceHe": "עכשיו צריך לתזמן נכון! חכי לרגע הנכון!"
+    },
+    {
+      "id": 8,
+      "phase": "mastery",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "timing",
+      "heatRequired": 90,
+      "pressureRequired": 85,
+      "timingRequired": true,
+      "distractors": 2,
+      "voiceHe": ""
+    },
+    {
+      "id": 9,
+      "phase": "mastery",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "full",
+      "heatRequired": 95,
+      "pressureRequired": 90,
+      "timingRequired": true,
+      "distractors": 3,
+      "voiceHe": ""
+    },
+    {
+      "id": 10,
+      "phase": "mastery",
+      "hintAfterAttempts": 3,
+      "autoCompleteAfterAttempts": 5,
+      "mechanic": "full",
+      "heatRequired": 100,
+      "pressureRequired": 100,
+      "timingRequired": true,
+      "distractors": 3,
+      "voiceHe": ""
+    }
+  ]
+}

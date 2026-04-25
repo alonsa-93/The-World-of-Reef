@@ -1,0 +1,93 @@
+{
+  "worlds": [
+    {
+      "id": "processes",
+      "nameHe": "איך דברים עובדים",
+      "nameEn": "How Things Work",
+      "emoji": "🌋",
+      "color": "#FFD6B8",
+      "bgGradient": "from-orange-100 to-red-100",
+      "locked": false,
+      "games": [
+        { "id": "volcano", "nameHe": "הר הגעש", "emoji": "🌋", "description": "חממי את ההר עד שהוא מתפוצץ!", "recommended": true },
+        { "id": "seedflower", "nameHe": "מהזרע לפרח", "emoji": "🌱", "description": "עזרי לזרע לגדול לפרח יפה!" },
+        { "id": "watercycle", "nameHe": "מחזור המים", "emoji": "💧", "description": "גשם, שלולית, אדים, ענן!" },
+        { "id": "butterfly", "nameHe": "מחזור הפרפר", "emoji": "🦋", "description": "מביצה לפרפר צבעוני!" },
+        { "id": "frogcycle", "nameHe": "מחזור הצפרדע", "emoji": "🐸", "description": "מביצה לצפרדע!" },
+        { "id": "daynight", "nameHe": "יום ולילה", "emoji": "🌞", "description": "הזזי את השמש והירח!" },
+        { "id": "seasons", "nameHe": "עונות השנה", "emoji": "🍂", "description": "ארבע העונות של העץ!" },
+        { "id": "bread", "nameHe": "איך עושים לחם", "emoji": "🍞", "description": "מחיטה לכיכר לחם!" },
+        { "id": "bees", "nameHe": "דבורים ודבש", "emoji": "🐝", "description": "עזרי לדבורה לאסוף נקטר!" },
+        { "id": "meltice", "nameHe": "הקרח נמס", "emoji": "🧊", "description": "הזזי את השמש להמיס קרח!" },
+        { "id": "rainbow", "nameHe": "הקשת בענן", "emoji": "🌈", "description": "ערבבי גשם ושמש לקשת!" },
+        { "id": "egg", "nameHe": "הביצה בוקעת", "emoji": "🐣", "description": "עזרי לאפרוח לצאת!" },
+        { "id": "spiderweb", "nameHe": "קורי עכביש", "emoji": "🕷️", "description": "עזרי לעכביש לארוג קורים!" },
+        { "id": "cowmilk", "nameHe": "מהפרה לחלב", "emoji": "🐄", "description": "הכיני כוס חלב טרי!" },
+        { "id": "shadows", "nameHe": "צל ואור", "emoji": "🔦", "description": "הזזי את הפנס לשנות צל!" }
+      ]
+    },
+    {
+      "id": "literacy",
+      "nameHe": "שפה ואוריינות",
+      "nameEn": "Hebrew Literacy",
+      "emoji": "📖",
+      "color": "#E0B8F9",
+      "bgGradient": "from-purple-100 to-indigo-100",
+      "locked": false,
+      "games": [
+        { "id": "findletter", "nameHe": "מצאי את האות", "emoji": "🔤", "description": "איפה מסתתרת האות?", "recommended": true },
+        { "id": "sightwords", "nameHe": "מילים ותמונות", "emoji": "📝", "description": "התאימי מילה לתמונה!" },
+        { "id": "startingsounds", "nameHe": "במה מתחילה המילה?", "emoji": "🔊", "description": "שמעי ומצאי את האות הראשונה!" },
+        { "id": "rhyming", "nameHe": "מילים מתחרזות", "emoji": "🎵", "description": "מצאי את המילה שמתחרזת!" },
+        { "id": "syllables", "nameHe": "מחיאות כף", "emoji": "🎈", "description": "כמה הברות? תפצצי בלונים!" }
+      ]
+    },
+    {
+      "id": "logic",
+      "nameHe": "לוגיקה ומתמטיקה",
+      "nameEn": "Logic & Math",
+      "emoji": "🧩",
+      "color": "#B8F5D6",
+      "bgGradient": "from-green-100 to-teal-100",
+      "locked": false,
+      "games": [
+        { "id": "patterns", "nameHe": "תבניות קסומות", "emoji": "🔵", "description": "המשיכי את הסדרה!", "recommended": true },
+        { "id": "sorting", "nameHe": "הבלגן של סטיץ׳", "emoji": "🗂️", "description": "עזרי לסטיץ׳ לסדר הכל!" }
+      ]
+    },
+    {
+      "id": "emotions",
+      "nameHe": "רגשות ולב",
+      "nameEn": "Emotions & Heart",
+      "emoji": "❤️",
+      "color": "#FFB8C8",
+      "bgGradient": "from-pink-100 to-rose-100",
+      "locked": false,
+      "games": [
+        { "id": "emotionmirror", "nameHe": "מראת הרגשות", "emoji": "😊", "description": "גלי איך מרגישים החברים!", "recommended": true },
+        { "id": "helpinghand", "nameHe": "יד מושטת", "emoji": "🤝", "description": "עזרי לחברים בצרה!" }
+      ]
+    },
+    {
+      "id": "travel",
+      "nameHe": "טיול בתאילנד",
+      "nameEn": "Thailand Travel",
+      "emoji": "✈️",
+      "color": "#B8E4F9",
+      "bgGradient": "from-blue-100 to-cyan-100",
+      "locked": false,
+      "games": [
+        { "id": "packing", "nameHe": "מה לארוז?", "emoji": "🧳", "description": "ארזי מזוודה לחופשה!", "recommended": true },
+        { "id": "beach", "nameHe": "החוף הקסום", "emoji": "🏖️", "description": "מצאי את החיות המסתתרות!" },
+        { "id": "airplane", "nameHe": "מושב במטוס", "emoji": "✈️", "description": "מצאי את המושב שלך!" },
+        { "id": "boat", "nameHe": "סיור בסירה", "emoji": "⛵", "description": "הנחי את הסירה!" },
+        { "id": "fruitsort", "nameHe": "מיון פירות טרופיים", "emoji": "🥭", "description": "מיני את הפירות!" },
+        { "id": "passport", "nameHe": "חותמות דרכון", "emoji": "📘", "description": "התאימי את החותמות!" },
+        { "id": "sandcastle", "nameHe": "טירת חול", "emoji": "🏰", "description": "בני טירת חול!" },
+        { "id": "snorkeling", "nameHe": "צלילה", "emoji": "🐠", "description": "ספרי את הדגים!" },
+        { "id": "maze", "nameHe": "מבוך הג׳ונגל", "emoji": "🐒", "description": "עזרי לקוף למצוא בננה!" },
+        { "id": "foodorder", "nameHe": "הזמנת אוכל", "emoji": "🍜", "description": "הזמיני אוכל תאילנדי!" }
+      ]
+    }
+  ]
+}
